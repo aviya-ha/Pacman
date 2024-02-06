@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.board-container {
+  margin: auto;
+}
+
+.cell {
+  font-size: 1.5em;
+  width: 2em;
+  height: 2em;
+  background-color: black;
+}
+
+.play-again-modal {
+  display: none;
+  font-size: 10px;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  text-align: center;
+  background-color: rgb(56, 213, 56);
+  margin-left: 350px;
+  margin-top: 200px;
+}
+
+.⛓️ {
+  background-color: rgba(128, 128, 128, 0.205);
+}
